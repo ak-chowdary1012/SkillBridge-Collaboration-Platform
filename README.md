@@ -124,15 +124,50 @@ android:value="YOUR_MAPS_API_KEY"
 
 ## 📸 Screenshots
 
-Add screenshots after running the app:
+### 🚀 Splash Screen
+![Splash Screen](Screenshots/Launch_Logo.jpg)
 
-| Splash | Home | Search |
-| --- | --- | --- |
-| `screenshots/splash.png` | `screenshots/home.png` | `screenshots/search.png` |
+### 🔐 Login Screen
+![Login Screen](Screenshots/Login_Page.jpg)
 
-| Project Detail | Connections | Profile |
-| --- | --- | --- |
-| `screenshots/project-detail.png` | `screenshots/connections.png` | `screenshots/profile.png` |
+### 📝 Registration Screen
+![Registration Screen](Screenshots/Register_Page.jpg)
+
+### 🏠 Home Dashboard
+![Home Dashboard](Screenshots/Home_Page_1.jpg)
+
+### 🏠 Home Feed
+![Home Feed](Screenshots/Home_Page_2.jpg)
+
+### 🔍 Discover Projects
+![Discover Projects](Screenshots/Discover_Projects_Page.jpg)
+
+### 👥 Discover People
+![Discover People](Screenshots/Discover_People_Page.jpg)
+
+### 🌐 Network Page
+![Network Page](Screenshots/Network_Page.jpg)
+
+### ➕ Post Project
+![Post Project](Screenshots/Post_Page.jpg)
+
+### 🔔 Notifications
+![Notifications](Screenshots/Notification_Page.jpg)
+
+### 📄 Project Details
+![Project Details](Screenshots/Project_Description_Page.jpg)
+
+### 👤 Profile Page
+![Profile Page](Screenshots/Profile_Page.jpg)
+
+### ✏️ Edit Profile
+![Edit Profile](Screenshots/Edit_Profile_Page.jpg)
+
+### 🧑‍💻 Creators Page
+![Creators Page](Screenshots/Creators_Page.jpg)
+
+### 🏝️ Profile Island
+![Profile Island](Screenshots/Profile_island.jpg)
 
 ## 🚧 Future Improvements
 
