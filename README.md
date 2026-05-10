@@ -66,7 +66,25 @@ SkillBridge follows a clear separation of responsibilities:
 ## 📁 Folder Structure
 
 ```text
-SkillBridge/
+SkillBridge-Collaboration-Platform/
+├── APK/
+│   └── SkillBridge2O.apk
+├── Screenshots/
+│   ├── Launch_Logo.jpg
+│   ├── Login_Page.jpg
+│   ├── Register_Page.jpg
+│   ├── Home_Page_1.jpg
+│   ├── Home_Page_2.jpg
+│   ├── Discover_Projects_Page.jpg
+│   ├── Discover_People_Page.jpg
+│   ├── Network_Page.jpg
+│   ├── Post_Page.jpg
+│   ├── Notification_Page.jpg
+│   ├── Project_Description_Page.jpg
+│   ├── Profile_Page.jpg
+│   ├── Edit_Profile_Page.jpg
+│   ├── Creators_Page.jpg
+│   └── Profile_island.jpg
 ├── app/
 │   ├── build.gradle
 │   ├── proguard-rules.pro
@@ -88,11 +106,14 @@ SkillBridge/
 │       │   └── res/
 │       └── test/
 ├── gradle/
+├── .gitignore
+├── LICENSE
+├── README.md
 ├── build.gradle.kts
 ├── gradle.properties
-├── settings.gradle.kts
-├── LICENSE
-└── README.md
+├── gradlew
+├── gradlew.bat
+└── settings.gradle.kts
 ```
 
 ## ⚙️ Installation
