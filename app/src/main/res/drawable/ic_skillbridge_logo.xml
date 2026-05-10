@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="140dp"
+    android:height="140dp"
+    android:viewportWidth="140"
+    android:viewportHeight="140">
+
+    <!-- Outer glow for center node -->
+    <path
+        android:fillColor="#1A73E8"
+        android:fillAlpha="0.15"
+        android:pathData="M70,45m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+
+    <!-- Left Arc -->
+    <path
+        android:pathData="M30,85 Q50,45 70,45"
+        android:strokeWidth="4"
+        android:strokeColor="#1A73E8" />
+
+    <!-- Right Arc -->
+    <path
+        android:pathData="M70,45 Q90,45 110,85"
+        android:strokeWidth="4"
+        android:strokeColor="#34A853" />
+
+    <!-- Left Node -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M30,85m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,85m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+
+    <!-- Center Node -->
+    <path
+        android:fillColor="#1A73E8"
+        android:pathData="M70,45m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,45m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+
+    <!-- Right Node -->
+    <path
+        android:fillColor="#34A853"
+        android:pathData="M110,85m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M110,85m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+
+</vector>

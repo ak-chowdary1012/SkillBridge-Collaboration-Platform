@@ -1,0 +1,50 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local environment
+local.properties
+
+# Generated Android artifacts
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+*.aar
+*.dex
+*.class
+app/release/
+**/output-metadata.json
+
+# Signing keys and secrets
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
+secrets.properties
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+Thumbs.db
+.DS_Store
+
+# Test and coverage output
+coverage/
+*.ec
+
+# Local Gradle wrapper cache used during CLI verification
+.gradle-user-home/

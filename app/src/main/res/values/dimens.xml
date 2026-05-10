@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">18dp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="card_margin">12dp</dimen>
+    <dimen name="button_radius">24dp</dimen>
+    <dimen name="padding_screen">16dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_card">16dp</dimen>
+    <dimen name="chip_padding_h">14dp</dimen>
+    <dimen name="chip_padding_v">6dp</dimen>
+    <dimen name="avatar_size">60dp</dimen>
+    <dimen name="avatar_border">4dp</dimen>
+    <dimen name="accent_stripe_width">4dp</dimen>
+    <dimen name="accent_stripe_margin">10dp</dimen>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_bg">#080E14</color>
+    <color name="card_bg">#141422</color>
+    <color name="card_stroke">#1F2535</color>
+    <color name="input_bg">#0D1117</color>
+    <color name="input_stroke">#2A3A4A</color>
+    <color name="tab_inactive_bg">#1A1A2A</color>
+    <color name="bottom_nav_bg">#111111</color>
+    <color name="trending_card_bg">#0D1B4B</color>
+    <color name="stats_card_bg">#141422</color>
+    <color name="skills_card_bg">#141422</color>
+    <color name="glassy_island_bg">#1A2A4A</color>
+
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+    <color name="text_accent">#5BA3F5</color>
+    <color name="text_name">#FFFFFF</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_hint">#4A5A6A</color>
+    <color name="text_time">#5F6368</color>
+
+    <color name="connect_btn_bg">#0D1B3E</color>
+    <color name="connect_btn_text">#5BA3F5</color>
+    <color name="connect_btn_stroke">#1A73E8</color>
+    <color name="message_btn_bg">#1A1A2A</color>
+    <color name="message_btn_text">#8E8E93</color>
+    <color name="message_btn_stroke">#2A2A3A</color>
+    <color name="logout_bg">#1A0808</color>
+    <color name="logout_text">#FF5555</color>
+    <color name="logout_stroke">#FF4444</color>
+
+    <color name="chip_bg">#0D1B3E</color>
+    <color name="chip_text">#5BA3F5</color>
+    <color name="chip_stroke">#1A73E8</color>
+
+    <color name="notif_unread_bg">#141B2E</color>
+    <color name="notif_unread_stroke">#1A2A4A</color>
+    <color name="notif_read_bg">#141422</color>
+</resources>
