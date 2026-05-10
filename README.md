@@ -122,6 +122,12 @@ android:value="YOUR_MAPS_API_KEY"
 
 6. Run the app on an Android emulator or physical device.
 
+## 📦 APK Download
+
+Experience the application directly using the APK below:
+
+➡️ [Download SkillBridge APK](APK/SkillBridge2O.apk)
+
 ## 📸 Screenshots
 
 ### 🚀 Splash Screen
@@ -179,11 +185,13 @@ android:value="YOUR_MAPS_API_KEY"
 - Better offline-first sync and conflict handling.
 - UI test coverage for core user flows.
 
-## 🏷️ Recommended GitHub Topics
 
-`android` · `java` · `sqlite` · `mvvm` · `material-design` · `recyclerview` · `viewpager2` · `student-project` · `collaboration-platform` · `portfolio-project`
+## 📌 Project Status
 
-## 🗓️ Suggested Release Notes
+✅ Active Development  
+✅ Portfolio Ready  
+✅ Android Studio Compatible  
+✅ Public Showcase Project
 
 ### v1.0.0 - Portfolio Release
 
@@ -204,4 +212,4 @@ This project is published as a student portfolio and educational showcase. Sugge
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.
 
-Commercial use is not permitted without written permission from the authors. Academic re-submission or plagiarism is strictly prohibited.
+Commercial usage, redistribution, or academic plagiarism without proper attribution is prohibited.
